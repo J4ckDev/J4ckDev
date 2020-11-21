@@ -18,6 +18,8 @@
 
 <img alt="Markdown Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/48/000000/markdown.png" title="Markdown"/>
 
+<img width="48px" alt="MySQL Logo" style="margin: 0px 1px;" src="https://raw.githubusercontent.com/J4ckDev/J4ckDev/main/media/mysql.png" title="MySQL"/>
+
 <img alt="Git Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
 
 <img alt="GitHub Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub"/>
