@@ -16,6 +16,10 @@
 
 <img alt="Visual Basic" style="margin: 0px 1px;" src="https://img.icons8.com/ios/48/000000/visual-basic.png" title="Visual Basic .Net"/>
 
+<img alt="C plus plus Logo" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
+
+<img alt="C logo" src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
+
 <img alt="Markdown Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/48/000000/markdown.png" title="Markdown"/>
 
 <img width="48px" alt="MySQL Logo" style="margin: 0px 1px;" src="https://raw.githubusercontent.com/J4ckDev/J4ckDev/main/media/mysql.png" title="MySQL"/>
