@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## :chart_with_upwards_trend: Github Stats
+
 <a href="https://github.com/J4ckDev/J4ckDev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=J4ckDev&show_icons=true&line_height=27&count_private=true&title_color=FF8E43&text_color=DFDFDF&icon_color=5EC3FF&bg_color=1E1E1E" alt="J4ckDev Top programming languages"/>
 </a>
