@@ -28,6 +28,12 @@
 
 <img alt="GitHub Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/github.png" title="GitHub"/>
 
+<img width="64px" alt="Figma logo" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736" title="Figma">
+
+<img alt="Gimp" src="https://img.icons8.com/fluent/64/000000/gimp.png" title="Gimp"/>
+
+<img alt="Inkscape" src="https://img.icons8.com/color/64/000000/inkscape.png" title="Inkscape"/>
+
 <img alt="Visual Studio Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/visual-studio.png" title="Visual Studio"/>
 
 <img alt="Visual Studio Code Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
