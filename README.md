@@ -14,8 +14,6 @@
 
 <img alt="Python Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/python.png" title="Python"/>
 
-<img alt="Visual Basic" style="margin: 0px 1px;" src="https://img.icons8.com/ios/64/000000/visual-basic.png" title="Visual Basic .Net"/>
-
 <img alt="C plus plus Logo" src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" title="C++"/>
 
 <img alt="C logo" src="https://img.icons8.com/color/64/000000/c-programming.png" title="C"/>
@@ -35,8 +33,6 @@
 <img alt="Gimp" src="https://img.icons8.com/fluent/64/000000/gimp.png" title="Gimp"/>
 
 <img alt="Inkscape" src="https://img.icons8.com/color/64/000000/inkscape.png" title="Inkscape"/>
-
-<img alt="Visual Studio Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/visual-studio.png" title="Visual Studio"/>
 
 <img alt="Visual Studio Code Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
 
