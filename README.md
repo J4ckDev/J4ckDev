@@ -22,7 +22,7 @@
 
 <img alt="MariaDB Logo" width="64px" style="margin: 0px 1px;" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" title="MariaDB"/>
 
-<img alt="MySQL Logo" width="42px" style="margin: 0px 1px;" src="/media/mysql.png" title="MySQL"/>
+<img alt="MySQL Logo" width="64px" style="margin: 0px 1px;" src="/media/mysql.png" title="MySQL"/>
 
 <img alt="Git Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/git.png" title="Git"/>
 
