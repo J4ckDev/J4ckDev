@@ -20,15 +20,15 @@
 
 <img alt="Markdown Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/markdown.png" title="Markdown"/>
 
-<img alt="MariaDB Logo" width="64px" style="margin: 0px 1px;" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" title="MariaDB"/>
+<img alt="MariaDB Logo" height="64px" style="margin: 0px 1px;" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" title="MariaDB"/>
 
-<img alt="MySQL Logo" width="64px" style="margin: 0px 1px;" src="/media/mysql.png" title="MySQL"/>
+<img alt="MySQL Logo" width="58px" style="margin: 1px;" src="./media/mysql.png" title="MySQL"/>
 
 <img alt="Git Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/git.png" title="Git"/>
 
 <img alt="GitHub Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/github.png" title="GitHub"/>
 
-<img alt="GitKraken Logo" width="64px" style="margin: 0px 1px;" src="media/GitKraken.png" title="GitKraken UI"/>
+<img alt="GitKraken Logo" width="64px" style="margin: 0px 1px;" src="./media/GitKraken.png" title="GitKraken UI"/>
 
 <img width="64px" alt="Figma logo" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736" title="Figma">
 
@@ -38,7 +38,7 @@
 
 <img alt="Visual Studio Code Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
 
-<img alt="EasyEDA Logo" style="margin: 0px 1px;" src="/media/EasyEDA.svg" title="EasyEDA"/>
+<img alt="EasyEDA Logo" style="margin: 0px 1px;" src="./media/EasyEDA.svg" title="EasyEDA"/>
 
 <img alt="Arduino Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/arduino.png" title="Arduino"/>
 
