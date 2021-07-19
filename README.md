@@ -14,10 +14,6 @@
 
 <img alt="Python Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/python.png" title="Python"/>
 
-<img alt="C plus plus Logo" src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" title="C++"/>
-
-<img alt="C logo" src="https://img.icons8.com/color/64/000000/c-programming.png" title="C"/>
-
 <img alt="Markdown Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/markdown.png" title="Markdown"/>
 
 <img alt="MariaDB Logo" height="64px" style="margin: 0px 1px;" src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg" title="MariaDB"/>
@@ -37,10 +33,6 @@
 <img alt="Inkscape" src="https://img.icons8.com/color/64/000000/inkscape.png" title="Inkscape"/>
 
 <img alt="Visual Studio Code Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png" title="Visual Studio Code"/>
-
-<img alt="EasyEDA Logo" style="margin: 0px 1px;" src="./media/EasyEDA.svg" title="EasyEDA"/>
-
-<img alt="Arduino Logo" style="margin: 0px 1px;" src="https://img.icons8.com/fluent/64/000000/arduino.png" title="Arduino"/>
 
 <img alt="Debian Logo" style="margin: 0px 1px;" src="https://img.icons8.com/color/64/000000/debian.png" title="Debian OS and some derivatives"/>
 
