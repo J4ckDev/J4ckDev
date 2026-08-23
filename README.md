@@ -21,15 +21,20 @@
 ## 💻 OS & Tools
 
 ![Operative System - Pop!_OS](https://img.shields.io/badge/OS-Pop!_OS-289AA3?style=for-the-badge&logo=popos&logoColor=e0e0e0&labelColor=1E1E1E)
+![Text Editor - Windsurf](https://img.shields.io/badge/Editor-Windsurf-444?style=for-the-badge&logo=windsurf&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Text Editor - Zed](https://img.shields.io/badge/Editor-Zed-003D9D?style=for-the-badge&logo=zedindustries&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Terminal - Ghostty](https://img.shields.io/badge/Terminal-Ghostty-3551F3?style=for-the-badge&logo=ghostty&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Shell - Zsh](https://img.shields.io/badge/Shell-Zsh-e15927?style=for-the-badge&logo=zsh&logoColor=e0e0e0&labelColor=1E1E1E)
-![Tools - Figma](https://img.shields.io/badge/Tools-Figma-874FFF?style=for-the-badge&logo=figma&logoColor=e0e0e0&labelColor=1E1E1E)
-![Tools - DBeaver](https://img.shields.io/badge/Tools-DBeaver-5e4439?style=for-the-badge&logo=dbeaver&logoColor=e0e0e0&labelColor=1E1E1E)
-![Tools - Opencode](https://img.shields.io/badge/Tools-Opencode-444?style=for-the-badge&logo=opencode&logoColor=e0e0e0&labelColor=1E1E1E)
+![DB Client - DBeaver](https://img.shields.io/badge/DB_Client-DBeaver-5e4439?style=for-the-badge&logo=dbeaver&logoColor=e0e0e0&labelColor=1E1E1E)
+![Code Quality - SonarQube Cloud](https://img.shields.io/badge/Code_Quality-SonarQube_Cloud-126ED3?style=for-the-badge&logo=sonarqubeserver&logoColor=e0e0e0&labelColor=1E1E1E)
+![Design - Figma](https://img.shields.io/badge/Design-Figma-874FFF?style=for-the-badge&logo=figma&logoColor=e0e0e0&labelColor=1E1E1E)
+![Media - Inkscape](https://img.shields.io/badge/Media-Inkscape-444?style=for-the-badge&logo=inkscape&logoColor=e0e0e0&labelColor=1E1E1E)
+![Media - Gimp](https://img.shields.io/badge/Media-Gimp-7C7063?style=for-the-badge&logo=gimp&logoColor=e0e0e0&labelColor=1E1E1E)
+![AI Agents - Opencode](https://img.shields.io/badge/AI_Agents-Opencode-444?style=for-the-badge&logo=opencode&logoColor=e0e0e0&labelColor=1E1E1E)
+![AI Agents - Claude Code](https://img.shields.io/badge/AI_Agents-Claude_Code-E96747?style=for-the-badge&logo=claudecode&logoColor=e0e0e0&labelColor=1E1E1E)
 
 ## 🚀 Some of my Github Public Stats
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=J4ckDev&border_radius=8&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&hide_border=true&hide=followers)
-![Top Languages](https://ghstats.dev/api/langs?username=J4ckdev&hide_border=true&max_langs=10&border_radius=8&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&layout=vertical_list)
+![Top Languages](https://ghstats.dev/api/langs?username=J4ckdev&hide_border=true&max_langs=10&border_radius=8&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&layout=vertical_list&custom_title=Top%2010%20Languages)
 
