@@ -36,6 +36,6 @@
 
 ## 🚀 Some of my Github Public Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=J4ckDev&border_radius=8&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&hide_border=true&hide=followers)
-![Top Languages](https://ghstats.dev/api/langs?username=J4ckdev&hide_border=true&max_langs=10&border_radius=8&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&layout=vertical_list&custom_title=Top%2010%20Languages)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=J4ckDev&border_radius=1&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&hide_border=true&hide=followers)
+![Top Languages](https://ghstats.dev/api/langs?username=J4ckdev&hide_border=true&max_langs=10&border_radius=1&bg=1E1E1E&text=e0e0e0&icon_color=FF8E43&title_color=5EC3FF&border_color=fff&layout=vertical_list&custom_title=Top%2010%20Languages)
 
