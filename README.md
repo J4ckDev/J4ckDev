@@ -14,6 +14,7 @@
 ![Styling - TailwindCSS](https://img.shields.io/badge/Styling-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Library - ReactJS](https://img.shields.io/badge/Library-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Framework - NextJS](https://img.shields.io/badge/Framework-NextJS-444?style=for-the-badge&logo=nextdotjs&logoColor=e0e0e0&labelColor=1E1E1E)
+![Framework - Astro](https://img.shields.io/badge/Framework-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Framework - FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=e0e0e0&labelColor=1E1E1E)
