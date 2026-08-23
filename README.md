@@ -1,4 +1,10 @@
-# Hi there 👋
+# 👋 Hi, I'm Jonathan Aldana
+
+I'm an Electronic and Telecommunications Engineer **with more than 5 years of experience as a Full Stack Web Developer**, working on different projects and continuously expanding my technical knowledge while strengthening my programming and communication skills. Throughout my career, I've learned to work effectively in dynamic and challenging environments, collaborating with teams to make sound technical decisions and deliver high-quality, valuable solutions for customers.
+
+I'm currently evolving my engineering workflow by adopting **Spec-Driven Development**, defining clear rules and skills, and taking on an **auditor role** to ensure consistency, quality, and adherence to established guidelines. In this approach, **AI agents become trusted assistants**, helping me tackle complex engineering challenges while keeping me responsible for the decisions, standards, and quality of the final solution.
+
+
 
 ## 🎯 Skills
 
