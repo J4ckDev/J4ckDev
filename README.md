@@ -10,7 +10,7 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 
 ![Scripting - Bash](https://img.shields.io/badge/Scripting-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Container - Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=e0e0e0&labelColor=1E1E1E)
-![Markup language - HTML](https://img.shields.io/badge/Markup-HTML-c1411e?style=for-the-badge&logo=html5&logoColor=e0e0e0&labelColor=1E1E1E)
+![Markup language - HyperText Markup Language](https://img.shields.io/badge/Markup-HTML-c1411e?style=for-the-badge&logo=html5&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Markup language - Markdown](https://img.shields.io/badge/Markup-Markdown-444?style=for-the-badge&logo=markdown&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Programming language - PHP](https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Programming language - Python](https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=e0e0e0&labelColor=1E1E1E)
@@ -39,6 +39,7 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 ![Media - Inkscape](https://img.shields.io/badge/Media-Inkscape-444?style=for-the-badge&logo=inkscape&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Media - Gimp](https://img.shields.io/badge/Media-Gimp-7C7063?style=for-the-badge&logo=gimp&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Project Management - Jira Software](https://img.shields.io/badge/Project_Management-Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=e0e0e0&labelColor=1E1E1E)
+![Version Control System - Git](https://img.shields.io/badge/VCS-Git-F03C2E?style=for-the-badge&logo=git&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Repositories - Github](https://img.shields.io/badge/Repositories-Github-444?style=for-the-badge&logo=github&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Repositories - Gitlab](https://img.shields.io/badge/Repositories-Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=e0e0e0&labelColor=1E1E1E)
 ![AI Tools - Ollama](https://img.shields.io/badge/AI_Tools-Ollama-444?style=for-the-badge&logo=ollama&logoColor=e0e0e0&labelColor=1E1E1E)
