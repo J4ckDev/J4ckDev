@@ -25,6 +25,7 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 ![Hosting - Netlify](https://img.shields.io/badge/Hosting-Netlify-00A797?style=for-the-badge&logo=netlify&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Hosting - Vercel](https://img.shields.io/badge/Hosting-Vercel-444?style=for-the-badge&logo=vercel&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Cloud - Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-DD9900?style=for-the-badge&logo=icloud&logoColor=e0e0e0&labelColor=1E1E1E)
+![Cloud - Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-0060DF?style=for-the-badge&logo=digitalocean&logoColor=e0e0e0&labelColor=1E1E1E)
 
 ## 💻 OS & Tools
 
