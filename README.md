@@ -22,10 +22,6 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 ![Framework - FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=e0e0e0&labelColor=1E1E1E)
-![Hosting - Netlify](https://img.shields.io/badge/Hosting-Netlify-00A797?style=for-the-badge&logo=netlify&logoColor=e0e0e0&labelColor=1E1E1E)
-![Hosting - Vercel](https://img.shields.io/badge/Hosting-Vercel-444?style=for-the-badge&logo=vercel&logoColor=e0e0e0&labelColor=1E1E1E)
-![Cloud - Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-DD9900?style=for-the-badge&logo=icloud&logoColor=e0e0e0&labelColor=1E1E1E)
-![Cloud - Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-0060DF?style=for-the-badge&logo=digitalocean&logoColor=e0e0e0&labelColor=1E1E1E)
 
 ## 💻 OS & Tools
 
@@ -43,6 +39,10 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 ![Version Control System - Git](https://img.shields.io/badge/VCS-Git-F03C2E?style=for-the-badge&logo=git&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Repositories - Github](https://img.shields.io/badge/Repositories-Github-444?style=for-the-badge&logo=github&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Repositories - Gitlab](https://img.shields.io/badge/Repositories-Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=e0e0e0&labelColor=1E1E1E)
+![Hosting - Netlify](https://img.shields.io/badge/Hosting-Netlify-00A797?style=for-the-badge&logo=netlify&logoColor=e0e0e0&labelColor=1E1E1E)
+![Hosting - Vercel](https://img.shields.io/badge/Hosting-Vercel-444?style=for-the-badge&logo=vercel&logoColor=e0e0e0&labelColor=1E1E1E)
+![Cloud - Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-DD9900?style=for-the-badge&logo=icloud&logoColor=e0e0e0&labelColor=1E1E1E)
+![Cloud - Digital Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-0060DF?style=for-the-badge&logo=digitalocean&logoColor=e0e0e0&labelColor=1E1E1E)
 ![AI Tools - Ollama](https://img.shields.io/badge/AI_Tools-Ollama-444?style=for-the-badge&logo=ollama&logoColor=e0e0e0&labelColor=1E1E1E)
 ![AI Agents - Opencode](https://img.shields.io/badge/AI_Agents-Opencode-444?style=for-the-badge&logo=opencode&logoColor=e0e0e0&labelColor=1E1E1E)
 ![AI Agents - Claude Code](https://img.shields.io/badge/AI_Agents-Claude_Code-E96747?style=for-the-badge&logo=claudecode&logoColor=e0e0e0&labelColor=1E1E1E)
