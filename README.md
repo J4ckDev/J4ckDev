@@ -4,8 +4,6 @@ I'm an Electronic and Telecommunications Engineer **with more than 5 years of ex
 
 I'm currently evolving my engineering workflow by adopting **Spec-Driven Development**, defining clear rules and skills, and taking on an **auditor role** to ensure consistency, quality, and adherence to established guidelines. In this approach, **AI agents become trusted assistants**, helping me tackle complex engineering challenges while keeping me responsible for the decisions, standards, and quality of the final solution.
 
-
-
 ## 🎯 Skills
 
 ![Scripting - Bash](https://img.shields.io/badge/Scripting-Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=e0e0e0&labelColor=1E1E1E)
@@ -24,6 +22,8 @@ I'm currently evolving my engineering workflow by adopting **Spec-Driven Develop
 ![Framework - FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Database - PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=e0e0e0&labelColor=1E1E1E)
+![Hosting - Netlify](https://img.shields.io/badge/Hosting-Netlify-00A797?style=for-the-badge&logo=netlify&logoColor=e0e0e0&labelColor=1E1E1E)
+![Hosting - Vercel](https://img.shields.io/badge/Hosting-Vercel-444?style=for-the-badge&logo=vercel&logoColor=e0e0e0&labelColor=1E1E1E)
 ![Cloud - Amazon Web Services](https://img.shields.io/badge/Cloud-AWS-DD9900?style=for-the-badge&logo=icloud&logoColor=e0e0e0&labelColor=1E1E1E)
 
 ## 💻 OS & Tools
